@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey hey 👋 I'm Stee.V
+====================
 
-<!--
-**flaatpixels/flaatpixels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer
+---------------
 
-Here are some ideas to get you started:
+I have a keen interest in new technologies and a great passion for Conception & Development of Web and Mobile Applications. Pro at UI Developement, Frontend Web Developement and making things looking good.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🇦🇪  I'm based in Haiti
+* ✉️  You can contact me at [pixelsplats@gmail.com](mailto:pixelsplats@gmail.com)
+* 🧠  I'm doing the [FreeCodeCamp](https://www.freecodecamp.org/) Certifications & Teaching MySelf CS Degree Requirements With [Curriculum](https://github.com/ForrestKnight/open-source-cs)
+* 🤝  I'm open to collaborating on slick open source projects
+* 🎮  [Music producer](https://www.youtube.com/channel/UCDr1MsreB0-yQII7baBDazQ) && Selling beats [online](https://www.linkedin.com/in/steeve-verdieu/)
